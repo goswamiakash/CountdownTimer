@@ -7,4 +7,4 @@
 <br/>
 
 ### Website screenshot:
-<img src="file:///C:/Users/goswa/Pictures/Screenshots/countdown%20timer%20image.png"/>
+<img src="image\countdown timer image.png"/>
