@@ -7,4 +7,4 @@
 <br/>
 
 ### Website screenshot:
-<img src="C:\Users\goswa\OneDrive\Desktop\Countdown timer\countdown timer image.png">
+<img src="countdown timer image.png">
