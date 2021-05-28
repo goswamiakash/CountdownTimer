@@ -2,7 +2,7 @@
 
 ### Made a countdown timer using javascript.
 
-### Visit website - [click here](https://github.com/goswamiakash/CountdownTimer)
+### Visit website - [click here](https://goswamiakash.github.io/Countdown Timer/)
 
 <br/>
 
